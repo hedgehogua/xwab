@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name 	xWab.RU Blackorange Style Helper
+// @name 	xWab.RU BlackOrange Style Helper
 // @namespace 	http://xwab.ru
 // @description Blackorange Style Helper
 // @version     0.01
