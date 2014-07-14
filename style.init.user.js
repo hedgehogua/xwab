@@ -2,7 +2,7 @@
 // @name 	xWab.RU BlackOrange Style Helper
 // @namespace 	http://xwab.ru
 // @description Blackorange Style Helper
-// @version     0.02
+// @version     latets
 // @date 	2014-07-14
 // @creator hedgehog684@gmail.com
 // @icon http://xwab.ru/icon.png
